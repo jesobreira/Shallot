@@ -76,6 +76,13 @@ Performance
 |        14 |          2.6 million years
 |=======================================
 
+Dependencies
+------------
+You must have OpenSSL headers on your machine.
+
+In Debian/Ubuntu, just do:
+	sudo apt-get -y install opensll libcurl4-openssl-dev libssl-dev
+
 A History of Shallot
 --------------------
 Shallot has a long history in Onion Land. In its original incarnation, Shallot
